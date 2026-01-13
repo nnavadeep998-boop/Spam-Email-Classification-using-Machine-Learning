@@ -12,6 +12,7 @@ Project Description  This project focuses on classifying emails as Spam or Not S
 
 
 Algorithm Used
+
 Multinomial Naive Bayes
 This algorithm is well-suited for text classification problems and works based on Bayes’ theorem, assuming feature independence.
 The required libraries are imported for data processing, feature extraction, model training, and evaluation.
