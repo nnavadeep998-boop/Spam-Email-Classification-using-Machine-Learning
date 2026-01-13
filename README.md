@@ -25,6 +25,8 @@ The trained model predicts whether test messages are spam or ham.
 The performance of the model is evaluated using accuracy score, classification report, and confusion matrix.
 
 
+Code Explanation
+
 
 1 Importing Libraries
 Required libraries are imported for text processing, model training, and evaluation.
