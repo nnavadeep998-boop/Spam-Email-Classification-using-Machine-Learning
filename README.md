@@ -19,3 +19,30 @@ TF-IDF Vectorizer converts text data into numerical values that machine learning
 A Multinomial Naive Bayes classifier is trained using the transformed training data.
 The trained model predicts whether test messages are spam or ham.
 The performance of the model is evaluated using accuracy score, classification report, and confusion matrix.
+
+1 Importing Libraries
+Required libraries are imported for text processing, model training, and evaluation.
+
+2️ Dataset Creation
+A small email dataset is manually created with spam and ham labels.
+
+3️ Data Preprocessing
+Text messages are converted into numerical vectors using TF-IDF Vectorizer.
+
+4️ Train-Test Split
+Dataset is split into 80% training and 20% testing data.
+
+5️ Model Creation
+Multinomial Naive Bayes classifier is used for spam detection.
+
+6️ Model Training
+The model learns patterns from the training data.
+
+7️ Prediction
+The model predicts whether messages are spam or ham.
+
+8️. Model Evaluation
+Performance is measured using:
+Accuracy
+Classification report
+Confusion matrix
